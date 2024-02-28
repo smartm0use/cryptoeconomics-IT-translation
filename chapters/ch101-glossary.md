@@ -43,7 +43,7 @@ Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
 #### Coinbase 
 Una [Transazione](#transazione) che [trasferisce](#trasferimento) la [Ricompensa](#ricompensa-reward).
 #### Commerciante
-Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio-trade). Utente è un sinonimo comune di questo termine.
+Una [Persona](#persona) che accetta [Unità](#unità) in uno [Scambio](#scambio-trade). Utente è un sinonimo comune di questo termine.
 #### Commissione di Transazione (Fee)
 Un [Trasferimento](#trasferimento) implicito ad un [Miner](#miner).
 #### Comunicazione
@@ -61,7 +61,7 @@ L'abilità di [Tracciare](#tracciamento-taint) usando metodi statistici di anali
 #### Custode (Custodian)
 Una [Persona](#persona) che controlla la proprietà di un'altra.
 #### Dare in Prestito - Investire
-[Scambiare](#scambio-trade) tempo privandosi di [Unità](unità) per acquisire (nel futuro) una proprietà di maggiore [Utilità](#utilità). [Investire](#dare-in-prestito---investire) è un sinonimo di questo termine.
+[Scambiare](#scambio-trade) tempo privandosi di [Unità](#unità) per acquisire (nel futuro) una proprietà di maggiore [Utilità](#utilità). [Investire](#dare-in-prestito---investire) è un sinonimo di questo termine.
 #### Decentralizzazione
 La tendenza che si oppone alla [centralizzazione](#centralizzazione).
 #### Delegazione
