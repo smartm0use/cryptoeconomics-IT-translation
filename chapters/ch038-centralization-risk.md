@@ -14,7 +14,7 @@ Le pressioni alla centralizzazione includono:
 
 Se uno [scambio](ch101-glossary.md#scambio-di-unità-exchange) è difficile per un cliente, il commerciante deve scontare la merce in modo da accettare la [moneta](ch101-glossary.md#moneta). Se lo scambio è difficile per il commerciante si incorre in un costo addizionale. Quando ci si appoggia ad una terza parte fidata per il pagamento, essa porta a ridurre la dimensione dello sconto e/o del costo e di conseguenza il ritorno sul capitale (n.d.t del commerciante) viene aumentato.
 
-Il [trasferimento](ch101-glossary.md#trasferimento) comporta delle [_fee_](ch101-glossary.md#commissioni-di-transazione-fee) che richiedono anch'esse lo sconto della merce da parte di un commerciante. Quando viene impiegato un intermediario fidato per finalizzare i trasferimenti _off-[chain](ch101-glossary.md#catena)_, le commissioni vengono ridotte e conseguentemente viene ridotto lo sconto aumentando il ritorno sul capitale.
+Il [trasferimento](ch101-glossary.md#trasferimento) comporta delle [_fee_](ch101-glossary.md#commissione-di-transazione-fee) che richiedono anch'esse lo sconto della merce da parte di un commerciante. Quando viene impiegato un intermediario fidato per finalizzare i trasferimenti _off-[chain](ch101-glossary.md#catena)_, le commissioni vengono ridotte e conseguentemente viene ridotto lo sconto aumentando il ritorno sul capitale.
 
 La centralizzazione si manifesta sotto forma di:
 

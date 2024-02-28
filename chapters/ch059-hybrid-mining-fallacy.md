@@ -2,7 +2,7 @@
 
 
 
-Esiste una teoria secondo la quale la combinazione di [_proof-of-work_](ch101-glossary.md#proof-of-work) (PoW) e di [_proof-of-stake_](ch101-glossary.md#proof-of-stake) (PoS) nel [mining](ch101-glossary.md#centro-di-mining-mine) offra un maggiore livello di sicurezza rispetto alla sola PoW. La teoria implica che una maggioranza di [possessori](ch101-glossary.md#proprietario) di [moneta](ch101-glossary.md#moneta) possa mitigare "i cattivi comportamenti" dei miner PoW.
+Esiste una teoria secondo la quale la combinazione di [_proof-of-work_](ch101-glossary.md#proof-of-work---prova-di-lavoro) (PoW) e di [_proof-of-stake_](ch101-glossary.md#proof-of-stake) (PoS) nel [mining](ch101-glossary.md#centro-di-mining-mine) offra un maggiore livello di sicurezza rispetto alla sola PoW. La teoria implica che una maggioranza di [possessori](ch101-glossary.md#proprietario) di [moneta](ch101-glossary.md#moneta) possa mitigare "i cattivi comportamenti" dei miner PoW.
 
 In mancanza di un [miner](ch101-glossary.md#miner) che detenga la [maggioranza dell'_hash power_](ch101-glossary.md#maggioranza-dellhash-power), non vi è nulla da mitigare. Quindi la teoria si basa sull'aumentare il costo di un regime di [censura](ch101-glossary.md#censura). Questa considerazione si basa sull'assunzione, di per sé insostenibile, che i miner PoW non siano anche miner PoS.  
 

@@ -5,9 +5,9 @@
 #### Aggiustamento 
 Cambiamento nella [Difficoltà](#difficoltà).
 #### Aggregazione
-La tendenza alla ridotta partecipazione nel [Mining](centro-di-mining-mine) o nella [Validazione](#validità).
+La tendenza alla ridotta partecipazione nel [Mining](#centro-di-mining-mine) o nella [Validazione](#validità).
 #### Altezza (Height)
-Il numero di [blocchi](#blocco) precedenti contenuti in un [Ramo](#ramo).
+Il numero di [blocchi](#blocco) precedenti contenuti in un [Ramo](#ramo-branch).
 #### Annuncio
 La prima comunicazione di un [Blocco](#blocco) ad un'altra [Persona](#persona).
 #### Applicazione delle Regole (Enforcement)
@@ -19,7 +19,7 @@ Iniziare ad [Applicare](#applicazione-delle-regole-enforcement) una nuova [Regol
 #### Bitcoin
 L'insieme di principi che proteggono una [Moneta](#moneta) dallo [Stato](#stato). Il termine ed i principi sono stati definiti da Satoshi in "Bitcoin: A Peer-to-Peer Electronic Cash System".
 #### Blocco
-Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestamp_](#marcatura-temporale-timestamp) e [Prova](#prova).
+Insieme [Valido](#validità) di [Transazioni](#transazione) dotate di [_Timestamp_](#timestamp---marcatura-temporale) e [Prova](#prova).
 #### Blocco Genesi
 Il primo [Blocco](#blocco) di tutti i [Rami](#ramo-branch) di una [Moneta](#moneta).
 #### Block Pool
@@ -97,13 +97,13 @@ Una singola computazione svolta per [Provare](#prova) la [Validità](#validità)
 #### Hash Power
 Una frazione dell'[Hash Rate](#hash-rate) di tutti i [Centri di Mining](#centro-di-mining-mine).
 #### Hash Power Apparente
-Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[Hash Power](#hash-power) di un [miner](centro-di-mining-mine) sono basate su questa definizione.
+Un frazione di [Blocchi](#blocco) in un [Segmento](#segmento) di [Catena](#catena). Le stime pubbliche dell'[Hash Power](#hash-power) di un [miner](#centro-di-mining-mine) sono basate su questa definizione.
 #### Hash Rate
 La quantità di [Hash](#hash) calcolati nell'unità di tempo.
 #### Identità
 I modi di associare una [Comunicazione](#comunicazione) ad una [Persona](#persona).
 #### Implementazione 
-Uno specifico insieme di [Strumenti](strumento-tool).
+Uno specifico insieme di [Strumenti](#strumento-tool).
 #### Inflazione 
 L'aumento di [Offerta](#offerta) dovuta al [Sussidio](#sussidio-subsidy). Il termine si riferisce all'inflazione monetaria che non va confusa con l'[inflazione del prezzo](#inflazione-del-prezzo).
 #### Inflazione del Prezzo
@@ -117,7 +117,7 @@ Il ritardo intrinseco nella [Comunicazione](#comunicazione).
 #### Lavoro
 Il processo di produzione di un [Blocco](#blocco).
 #### Layering
-[Scambio](#scambio-trade) effettuato utilizzando una sequenza di [Transazioni](#transazione) [Non Confermate](#non-confermata) che possono essere [Finalizzate](#finalizzazione-settlement) da ambo le controparti.
+[Scambio](#scambio-trade) effettuato utilizzando una sequenza di [Transazioni](#transazione) [Non Confermate](#non-confermata) che possono essere [Finalizzate](#settlement---finalizzazione) da ambo le controparti.
 #### Limite (Cap)
 Il limite posto all'[Offerta](#offerta) nel tempo.
 #### Locktime
@@ -131,11 +131,11 @@ La [Profondità](#profondità-depth) alla quale un [Output](#output) della [Coin
 #### Mercato
 Lo [Scambio](#scambio-trade) di certa proprietà.
 #### Miner
-Una [Persona](#persona) che opera un [Centro di Mining](centro-di-mining-mine). 
+Una [Persona](#persona) che opera un [Centro di Mining](#centro-di-mining-mine). 
 #### Moneta
 Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio-trade) mutuamente accettato. BTC è una [Moneta](#moneta).
 #### Nodo
-Uno [Strumento](strumento-tool) che esegue l'operazione di [Validazione](#validità).
+Uno [Strumento](#strumento-tool) che esegue l'operazione di [Validazione](#validità).
 #### Non Confermata
 Una [Transazione](#transazione) che non è inclusa in alcun [Blocco](#blocco).
 #### Offerta 
@@ -149,7 +149,7 @@ Dichiarazione atomica (univoca) di intenti.
 #### Organizzazione 
 Un [Annuncio](#annuncio) relativo all'aggiunta di un [Blocco](#blocco) alla [Catena](#catena).
 #### Ottimizzazione
-Uno [Strumento](strumento-tool) che riduce il costo del [Mining](#centro-di-mining-mine).
+Uno [Strumento](#strumento-tool) che riduce il costo del [Mining](#centro-di-mining-mine).
 #### Output
 Un [Trasferimento](#trasferimento) esplicito collegato ad un [Contratto](#contratto).
 #### Output precedente 
@@ -189,7 +189,7 @@ Il numero di [Blocchi](#blocco) più uno dopo una [Conferma](#conferma).
 #### Proof-of-Work - Prova di Lavoro
 [Prova](#prova) probabilistica del quantitativo di [Lavoro](#lavoro) svolto (PoW).
 #### Propagatore (Relay)
-Uno [Strumento](strumento-tool) che propaga nuovi [Blocchi](#blocco).
+Uno [Strumento](#strumento-tool) che propaga nuovi [Blocchi](#blocco).
 #### Proprietario
 Una [Persona](#persona) che ha il controllo di certe [Untità](#unità). Detentore è un sinonimo comune di questo termine.
 #### Prova
@@ -248,7 +248,7 @@ Un insieme di istruzioni [Macchina](#macchina).
 #### Sussidio (Subsidy)
 Emissione di nuove [Unità](#unità) ad un [Miner](#miner).
 #### Tempo Mediano Trascorso 
-Una media dei [_Timestamp_](#marcatura-temporale-timestamp) dei precedenti [Blocchi](#blocco).
+Una media dei [_Timestamp_](#timestamp---marcatura-temporale) dei precedenti [Blocchi](#blocco).
 #### Timestamp - Marcatura Temporale
 Una dichiarazione relativa al tempo di produzione di un [Blocco](#blocco).
 #### Tracciamento (Taint)
@@ -278,7 +278,7 @@ Differenze nel costo della risorsa del [Mining](#centro-di-mining-mine).
 #### Volatilità
 Variazioni del [Prezzo](#prezzo) che avvengono nel tempo.
 #### Wallet 
-Uno [Strumento](strumento-tool) che crea [Transazioni](#transazione). 
+Uno [Strumento](#strumento-tool) che crea [Transazioni](#transazione). 
 
 ---
 
