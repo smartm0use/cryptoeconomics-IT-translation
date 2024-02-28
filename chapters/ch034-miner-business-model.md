@@ -2,7 +2,7 @@
 
 
 
-I [miner](ch101-glossary.md#miner) conducono un [gioco a somma zero](https://it.wikipedia.org/wiki/Gioco_a_somma_zero) all'interno di un'[economia](ch101-glossary.md#economia) a [somma positiva](https://it.wikipedia.org/wiki/Win-win). Essi competono tra di loro, non con l'economia. L'utilità crescente riflette una somma positiva che è una naturale conseguenza dello [scambio commerciale](ch101-glossary.md#scambio).
+I [miner](ch101-glossary.md#miner) conducono un [gioco a somma zero](https://it.wikipedia.org/wiki/Gioco_a_somma_zero) all'interno di un'[economia](ch101-glossary.md#economia) a [somma positiva](https://it.wikipedia.org/wiki/Win-win). Essi competono tra di loro, non con l'economia. L'utilità crescente riflette una somma positiva che è una naturale conseguenza dello [scambio commerciale](ch101-glossary.md#scambio-trade).
 
 È stato affermato che i [blocchi](ch101-glossary.md#blocco) minati in un periodo di prezzi crescenti producano dei ritorni estremamente elevati per i miner, almeno fino all'[aggiustamento](ch101-glossary.md#aggiustamento) della [difficoltà](ch101-glossary.md#difficoltà). Questa idea è basata sulla diffusa incapacità di comprendere che i prezzi di mercato non sono [predicibili](https://it.wikipedia.org/wiki/Teoria_del_caos). Le scommesse sul cambiamento di prezzo sono speculative per natura. Non vi è ragione di presumere che la [speculazione](ch101-glossary.md#speculare) su Bitcoin sia più o meno efficace di qualsiasi altro tipo di speculazione. Nella misura in cui un aumento di prezzo è generalmente prevedibile dai miner, la competizione lo predice, invalidando l'idea di qualsiasi intrinseco ritorno elevato.
 

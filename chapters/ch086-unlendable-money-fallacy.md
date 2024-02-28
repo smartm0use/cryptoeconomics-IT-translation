@@ -19,7 +19,7 @@ rapporto-di-crescita-moneta-offerta-fissa = rapporto-di-crescita-moneta-merce / 
 100% / 97% = ~103%
 ```
 
-Si presume che una moneta ad offerta fissa vari il suo [potere d'acquisto](ch013-inflation-principle.md) in proporzione ai prodotti che essa rappresenta (i.e. la domanda). In altre parole, con un quantitativo doppio di prodotti, ogni [unità](ch101-glossary.md#unità) della moneta sarà in grado di [essere scambiata](ch101-glossary.md#scambio) per il doppio del quantitativo dei prodotti rispetto a prima.
+Si presume che una moneta ad offerta fissa vari il suo [potere d'acquisto](ch013-inflation-principle.md) in proporzione ai prodotti che essa rappresenta (i.e. la domanda). In altre parole, con un quantitativo doppio di prodotti, ogni [unità](ch101-glossary.md#unità) della moneta sarà in grado di [essere scambiata](ch101-glossary.md#scambio-trade) per il doppio del quantitativo dei prodotti rispetto a prima.
 
 ```
 potere-di-acquisto-anno-corrente = potere-di-acquisto-anno-precedente * rapporto-di-crescita-annuale

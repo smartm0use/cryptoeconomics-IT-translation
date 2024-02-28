@@ -43,7 +43,7 @@ Ricorso all'aggressione al fine di indurre una [Attivazione](#attivazione).
 #### Coinbase 
 Una [Transazione](#transazione) che [trasferisce](#trasferimento) la [Ricompensa](#ricompensa-reward).
 #### Commerciante
-Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio). Utente è un sinonimo comune di questo termine.
+Una [Persona](#persona) che accetta [Unità](unità) in uno [Scambio](#scambio-trade). Utente è un sinonimo comune di questo termine.
 #### Commissione di Transazione (Fee)
 Un [Trasferimento](#trasferimento) implicito ad un [Miner](#miner).
 #### Comunicazione
@@ -61,7 +61,7 @@ L'abilità di [Tracciare](#tracciamento-taint) usando metodi statistici di anali
 #### Custode (Custodian)
 Una [Persona](#persona) che controlla la proprietà di un'altra.
 #### Dare in Prestito - Investire
-[Scambiare](#scambio) tempo privandosi di [Unità](unità) per acquisire (nel futuro) una proprietà di maggiore [Utilità](#utilità). [Investire](#dare-in-prestito---investire) è un sinonimo di questo termine.
+[Scambiare](#scambio-trade) tempo privandosi di [Unità](unità) per acquisire (nel futuro) una proprietà di maggiore [Utilità](#utilità). [Investire](#dare-in-prestito---investire) è un sinonimo di questo termine.
 #### Decentralizzazione
 La tendenza che si oppone alla [centralizzazione](#centralizzazione).
 #### Delegazione
@@ -107,7 +107,7 @@ Uno specifico insieme di [Strumenti](strumento-tool).
 #### Inflazione 
 L'aumento di [Offerta](#offerta) dovuta al [Sussidio](#sussidio-subsidy). Il termine si riferisce all'inflazione monetaria che non va confusa con l'[inflazione del prezzo](#inflazione-del-prezzo).
 #### Inflazione del Prezzo
-Aumento del prezzo medio di [Scambio](#scambio-di-unità) nel tempo.
+Aumento del prezzo medio di [Scambio](#scambio-di-unità-exchange) nel tempo.
 #### Input
 Un [_Output_](#output) [_Point_](#point) collegato ad un [_Endorsement_](#endorsement).
 #### Interesse
@@ -117,7 +117,7 @@ Il ritardo intrinseco nella [Comunicazione](#comunicazione).
 #### Lavoro
 Il processo di produzione di un [Blocco](#blocco).
 #### Layering
-[Scambio](#scambio) effettuato utilizzando una sequenza di [Transazioni](#transazione) [Non Confermate](#non-confermata) che possono essere [Finalizzate](#finalizzazione-settlement) da ambo le controparti.
+[Scambio](#scambio-trade) effettuato utilizzando una sequenza di [Transazioni](#transazione) [Non Confermate](#non-confermata) che possono essere [Finalizzate](#finalizzazione-settlement) da ambo le controparti.
 #### Limite (Cap)
 Il limite posto all'[Offerta](#offerta) nel tempo.
 #### Locktime
@@ -129,11 +129,11 @@ Un sottoinsieme di [Miner](#miner) dotato di sufficiente [Hash Power](#hash-powe
 #### Maturità
 La [Profondità](#profondità-depth) alla quale un [Output](#output) della [Coinbase](#coinbase) diventa [Trasferibile](#trasferimento).
 #### Mercato
-Lo [Scambio](#scambio) di certa proprietà.
+Lo [Scambio](#scambio-trade) di certa proprietà.
 #### Miner
 Una [Persona](#persona) che opera un [Centro di Mining](centro-di-mining-mine). 
 #### Moneta
-Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio) mutuamente accettato. BTC è una [Moneta](#moneta).
+Un [Consenso](#consenso) che riguarda un mezzo di [Scambio](#scambio-trade) mutuamente accettato. BTC è una [Moneta](#moneta).
 #### Nodo
 Uno [Strumento](strumento-tool) che esegue l'operazione di [Validazione](#validità).
 #### Non Confermata
@@ -143,7 +143,7 @@ L'insieme di tutte le [Unità](#unità) emesse.
 #### Onesto
 Un [Miner](#miner) che costruisce sui [Blocchi](#blocco) di altri.
 #### Operatore di Dispositivo di Mining (Grinder)
-Una [Persona](#persona) che opera un [Dispositivo di Mining](#dispositivo-di-mining-grinder).
+Una [Persona](#persona) che opera un [Dispositivo di Mining](#dispositivo-di-mining-grind).
 #### Operazione
 Dichiarazione atomica (univoca) di intenti.
 #### Organizzazione 
@@ -173,11 +173,11 @@ Che concerne le azioni degli [Stati](#stato).
 #### Potere 
 Il livello relativo di controllo di una [Persona](#persona) su una [Catena](#catena) o una [Moneta](#moneta).
 #### Potere Economico
-Una frazione di tutte le proprietà offerte in [Scambio](#scambio-di-unità).
+Una frazione di tutte le proprietà offerte in [Scambio](#scambio-di-unità-exchange).
 #### Prendere a Prestito
-[Scambiare](#scambio) tempo per [Unità](#unità) che garantiscono al Prestatore maggiore [Utilità](#utilità).
+[Scambiare](#scambio-trade) tempo per [Unità](#unità) che garantiscono al Prestatore maggiore [Utilità](#utilità).
 #### Prezzo
-Media variabile dei valori di [Scambio](#scambio-di-unità).
+Media variabile dei valori di [Scambio](#scambio-di-unità-exchange).
 #### Profitto
 Il ritorno sull'investimento al di sopra del tasso di [Interesse](#interesse) di [mercato](#mercato).
 #### Profondità (Depth)
@@ -219,7 +219,7 @@ Un [Annuncio](#annuncio) che promuove un [Ramo Debole](#ramo-debole-weak-branch)
 #### Scambio (Trade)
 Passaggio volontario di proprietà tra due [Persone](#persona).
 #### Scambio di Unità (Exchange)
-Lo [Scambio](#scambio) di [Unità](#unità) per altra proprietà.
+Lo [Scambio](#scambio-trade) di [Unità](#unità) per altra proprietà.
 #### Script
 Insieme di [Operazioni](#operazione) che autorizzano un [Trasferimento](#trasferimento).
 #### Segmento 
@@ -242,7 +242,7 @@ La prima pubblicazione di una [Transazione](#transazione).
 #### Stallo
 L'assenza di incremento di [Altezza](#altezza-height).
 #### Stato
-Insieme di [Persone](#persona) che utilizza l'aggressione al posto dello [Scambio](#scambio). Opera tipicamente in un regime di impunità all'interno di limiti geografici.
+Insieme di [Persone](#persona) che utilizza l'aggressione al posto dello [Scambio](#scambio-trade). Opera tipicamente in un regime di impunità all'interno di limiti geografici.
 #### Strumento (Tool)
 Un insieme di istruzioni [Macchina](#macchina).
 #### Sussidio (Subsidy)

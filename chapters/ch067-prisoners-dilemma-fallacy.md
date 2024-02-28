@@ -4,7 +4,7 @@
 
 Esiste una teoria secondo la quale, ogni stato, individualmente, se messo di fronte alla scelta di unirsi ad una messa al bando di Bitcoin, affronti un [dilemma del prigioniero](https://it.wikipedia.org/wiki/Dilemma_del_prigioniero). Una messa al bando significativa implica che uno o più stati (la "prigione") applicheranno (come minimo) delle [sanzioni economiche](https://www.cfr.org/backgrounder/what-are-economic-sanctions) ad altri stati (identificati come "prigionieri") che potrebbero potenzialmente adottare Bitcoin come [valuta di riserva](https://it.wikipedia.org/wiki/Valuta_di_riserva).
 
-Assumiamo che i prigionieri che decidessero di adottare Bitcoin siano partner [commerciali](ch101-glossary.md#scambio). In altre parole, l'uso di Bitcoin come moneta di riserva necessità di un partner con cui [transare](ch101-glossary.md#transazione).
+Assumiamo che i prigionieri che decidessero di adottare Bitcoin siano partner [commerciali](ch101-glossary.md#scambio-trade). In altre parole, l'uso di Bitcoin come moneta di riserva necessità di un partner con cui [transare](ch101-glossary.md#transazione).
 
 L'[utilità ordinale](https://en.wikipedia.org/wiki/Ordinal_utility) è implicata dal [valore soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_value). Non sono previste situazioni di [parità](https://en.wikipedia.org/wiki/Tie_(draw)), cosa che implica un dilemma in senso forte. Nel seguito sono prese in considerazione sia la configurazione di conoscenza simmetrica che quella asimmetrica.
 

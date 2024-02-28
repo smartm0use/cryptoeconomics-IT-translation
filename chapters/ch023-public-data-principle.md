@@ -2,7 +2,7 @@
 
 
 
-Dal [Principio di Condivisione del Rischio](ch016-risk-sharing-principle.md) consegue che la sicurezza del sistema dipende dalle attività di [mining](ch101-glossary.md#centro-di-mining-mine) e di [scambio](ch101-glossary.md#scambio) svolte sotto copertura. Una [moneta](ch101-glossary.md#moneta) esiste sotto forma di un [mercato](ch101-glossary.md#mercato) [mutuamente vantaggioso](ch042-balance-of-power-fallacy.md) tra i [miner](ch101-glossary.md#miner) e i [commercianti](ch101-glossary.md#commerciante) basato sulla [conferma](ch101-glossary.md#conferma) di [transazioni](ch101-glossary.md#transazione) all'interno dei blocchi in cambio delle [commissioni](ch101-glossary.md#commissione-di-transazione-fee).
+Dal [Principio di Condivisione del Rischio](ch016-risk-sharing-principle.md) consegue che la sicurezza del sistema dipende dalle attività di [mining](ch101-glossary.md#centro-di-mining-mine) e di [scambio](ch101-glossary.md#scambio-trade) svolte sotto copertura. Una [moneta](ch101-glossary.md#moneta) esiste sotto forma di un [mercato](ch101-glossary.md#mercato) [mutuamente vantaggioso](ch042-balance-of-power-fallacy.md) tra i [miner](ch101-glossary.md#miner) e i [commercianti](ch101-glossary.md#commerciante) basato sulla [conferma](ch101-glossary.md#conferma) di [transazioni](ch101-glossary.md#transazione) all'interno dei blocchi in cambio delle [commissioni](ch101-glossary.md#commissione-di-transazione-fee).
 
 Le attività che avvengono necessariamente sotto copertura sono suddivise per ruolo:
 

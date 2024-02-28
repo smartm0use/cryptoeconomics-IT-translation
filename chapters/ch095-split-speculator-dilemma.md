@@ -4,9 +4,9 @@
 
 In seguito ad un evento di [separazione](ch101-glossary.md#separazione-split), un [possessore](ch101-glossary.md#proprietario) della [moneta](ch101-glossary.md#moneta) originale si trova di fronte alla scelta di conservare o vendere le [unità](ch101-glossary.md#unità) della [catena](ch101-glossary.md#catena) originale e di quella che si è separata.
 
-Come discusso nella [Fallacia del Dumping](ch049-dumping-fallacy.md) non vi è modo di influenzare l'esistenza di una catena o dell'altra [scambiando](ch101-glossary.md#scambio-di-unità) o [accumulando](ch101-glossary.md#accumulare) le unità di una delle due. Di conseguenza, andremo a valutare questa scelta come una questione legata strettamente al modo con cui massimizzare il valore della proprietà esistente a seguito di una separazione.
+Come discusso nella [Fallacia del Dumping](ch049-dumping-fallacy.md) non vi è modo di influenzare l'esistenza di una catena o dell'altra [scambiando](ch101-glossary.md#scambio-di-unità-exchange) o [accumulando](ch101-glossary.md#accumulare) le unità di una delle due. Di conseguenza, andremo a valutare questa scelta come una questione legata strettamente al modo con cui massimizzare il valore della proprietà esistente a seguito di una separazione.
 
-Data una certa posizione prima della separazione, un proprietario è affetto dall'aumento di costo di conversione delle unità e dalla [_replay protection_](ch076-replay-protection-fallacy.md) quando applicabile. Questi rappresentano degli inevitabili costi di [scambio](ch101-glossary.md#scambio) nel futuro che riducono il [valore attuale netto](https://it.wikipedia.org/wiki/Valore_attuale_netto) delle unità. Quindi questi fattori non rispondono al quesito.
+Data una certa posizione prima della separazione, un proprietario è affetto dall'aumento di costo di conversione delle unità e dalla [_replay protection_](ch076-replay-protection-fallacy.md) quando applicabile. Questi rappresentano degli inevitabili costi di [scambio](ch101-glossary.md#scambio-trade) nel futuro che riducono il [valore attuale netto](https://it.wikipedia.org/wiki/Valore_attuale_netto) delle unità. Quindi questi fattori non rispondono al quesito.
 
 Per le rimanenti considerazioni si _assume_ che le monete, congiuntamente, aumenteranno di [prezzo](ch101-glossary.md#prezzo) nell'intervallo di tempo considerato.
 

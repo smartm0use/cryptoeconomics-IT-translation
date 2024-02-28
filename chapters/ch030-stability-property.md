@@ -2,7 +2,7 @@
 
 
 
-Il [valore è soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_value) e di conseguenza la costanza dei prezzi rappresenta una finzione economica. I [prezzi](ch101-glossary.md#prezzo) di [scambio](ch101-glossary.md#scambio-di-unità) di una moneta sono determinati dalla sua [domanda e offerta](https://it.wikipedia.org/wiki/Domanda_e_offerta) che, a sua volta, dipende dalla curva di domanda di tutte le persone per tutti i prodotti. La stabilità di una moneta non è la tendenza verso un prezzo costante di tutti gli altri beni ma è una relazione di [smorzamento](https://en.wikipedia.org/wiki/Damping_ratio) tra la domanda di moneta e la sua offerta.
+Il [valore è soggettivo](https://en.wikipedia.org/wiki/Subjective_theory_of_value) e di conseguenza la costanza dei prezzi rappresenta una finzione economica. I [prezzi](ch101-glossary.md#prezzo) di [scambio](ch101-glossary.md#scambio-di-unità-exchange) di una moneta sono determinati dalla sua [domanda e offerta](https://it.wikipedia.org/wiki/Domanda_e_offerta) che, a sua volta, dipende dalla curva di domanda di tutte le persone per tutti i prodotti. La stabilità di una moneta non è la tendenza verso un prezzo costante di tutti gli altri beni ma è una relazione di [smorzamento](https://en.wikipedia.org/wiki/Damping_ratio) tra la domanda di moneta e la sua offerta.
 
 È possibile classificare le monete in tre categorie di offerta:
 
